@@ -16,6 +16,6 @@
 -  🌍 [Portfolio](https://socode.vercel.app/)
 
 ## 🎯 Fun Fact
-When I'm not coding, you'll pprobably find me **reading 📚** - expanding both my mind and my imagination.
+When I'm not coding, you'll probably find me **reading 📚** - expanding both my mind and my imagination.
 
 ✨ *"Code is like humor. When you have to explain it, it's bad."*
