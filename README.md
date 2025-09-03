@@ -3,7 +3,7 @@
 
 ## 🚀 Tech Stack
 - **Languages & Frameworks:** JavaScript, React, jQuery
-- **UI & Styling:** TailwindCSS, Bootstrap, HTML5, CSS3, MUI
+- **UI & Styling:** HTML5, CSS3, Sass, TailwindCSS, Bootstrap, MUI
 - **Other Tools:** TensorFlow.js, Firebase
 
 ## 📌 Recent Projects
