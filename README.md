@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi there, I'm Samuel
+💻 **Front Developer** passionate about crafting sleek, user-friendly and responsive interfaces. I enjoy turning ideas into real-world applications with clean, efficient and scalable code.
 
-<!--
-**socode-dev/socode-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech Stack
+- **Languages & Frameworks:** JavaScript, React, jQuery
+- **UI & Styling:** TailwindCSS, Bootstrap, HTML5, CSS3, MUI
+- **Other Tools:** TensorFlow.js
 
-Here are some ideas to get you started:
+## 📌 Recent Projects
+- [SmartBudget](#) - AI-Driven smart budgeting app to track expenses and manage finances, with personalized tips.
+- [SkillSync](https://skillsync-one.vercel.app/) - A platform to connect job seekers with opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me 
+- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-oso-19a261292)
+-  📧 [Email](mailto:ososamuel246@gmail.com)
+-  🌍 [Portfolio](https://socode.vercel.app/)
+
+## 🎯 Fun Fact
+When I'm not coding, you'll pprobably find me **reading 📚** - expanding both my mind and my imagination.
+
+✨ *"Code is like humor. When you have to explain it, it's bad."*
