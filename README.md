@@ -4,7 +4,7 @@
 ## 🚀 Tech Stack
 - **Languages & Frameworks:** JavaScript, React, jQuery
 - **UI & Styling:** TailwindCSS, Bootstrap, HTML5, CSS3, MUI
-- **Other Tools:** TensorFlow.js
+- **Other Tools:** TensorFlow.js, Firebase
 
 ## 📌 Recent Projects
 - [SmartBudget](#) - AI-Driven smart budgeting app to track expenses and manage finances, with personalized tips.
