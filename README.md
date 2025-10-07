@@ -2,7 +2,7 @@
 💻 **Front Developer** passionate about crafting sleek, user-friendly and responsive interfaces. I enjoy turning ideas into real-world applications with clean, efficient and scalable code.
 
 ## 🚀 Tech Stack
-- **Languages & Frameworks:** JavaScript, React, jQuery
+- **Languages & Frameworks:** JavaScript, TypeScript, React, jQuery
 - **UI & Styling:** HTML5, CSS3, Sass, TailwindCSS, Bootstrap, MUI
 - **Other Tools:** TensorFlow.js, Firebase
 
